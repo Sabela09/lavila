@@ -1,0 +1,29 @@
+{
+    "institutoNombre" : "IES Marcos Zaragoza",
+    "ciudad" : "La Vila",
+    "provincia" : "Alicante",
+    "codigoCentro" : 1111,
+     "cursos" : [
+      {
+        "nombreCurso" : "SMR",
+        "numeroAlumnos" : 23
+       
+      },
+      {
+        "nombreCurso" : "ASIR",
+        "numeroAlumnos" : 23
+       
+       
+      },
+      {
+        "nombreCurso" : "DAW",
+        "numeroAlumnos" : 18
+        
+      },
+      {
+        "nombreCurso" : "DAM",
+        "numeroAlumnos" : 19
+        
+      }
+    ]
+  }
